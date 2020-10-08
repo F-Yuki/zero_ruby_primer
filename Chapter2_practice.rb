@@ -48,3 +48,5 @@ total = 300 * 2
 # puts t  ←※変数名間違い
 puts total
 puts "----------------------------------"
+
+puts "Chapter2課題完了です"
