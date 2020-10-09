@@ -87,3 +87,5 @@ puts "フラペチーノ"
   end
 end
 puts "フラペチーノ"
+
+puts "chapter3練習問題終了"
