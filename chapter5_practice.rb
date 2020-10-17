@@ -42,4 +42,4 @@ p ["abc", "xyz"].map {|x| x.reverse}
 # p ["aya", "achi", "Tama"].map {|x| x.downcase.sort} エラー
 p ["aya", "achi", "Tama"].map {|x| x.downcase}.sort
 
-puts "chapter4練習問題終了"
+puts "chapter5練習問題終了"
